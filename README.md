@@ -1,3 +1,3 @@
 ## Fubinian.github.io
 
-THis is a ReadMe
+This is a ReadMe
